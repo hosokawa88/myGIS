@@ -1,0 +1,7 @@
+[Sat Mar 22 13:19:33 2014] [info] Server listening (http://*:3000)
+[Sat Mar 22 13:19:44 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 22 13:19:53 2014] [debug] GET /psql (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101 Firefox/28.0).
+[Sat Mar 22 13:19:53 2014] [debug] Dispatching "psql".
+[Sat Mar 22 13:19:53 2014] [debug] psql does not exist, maybe a typo?
+[Sat Mar 22 13:19:53 2014] [debug] Rendering template "psql.html.ep".
+[Sat Mar 22 13:19:53 2014] [debug] 200 OK (0.033384s, 29.954/s).
